@@ -17,20 +17,6 @@
 PS:这是我第一个用中文写的项目，请各位多多支持！
 因式分解题目生成器，用于生成n元m次多项式，自动保存txt文本和png图像，全代码公开！可以点击查看答案，同样自动保存txt文本和png图像。超级好玩，难度多样，欢迎各位来玩。
 
-## 📊 GitHub 统计
-
-[![CARL-JOSEPH-LEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=CARL-JOSEPH-LEE&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CARL-JOSEPH-LEE&theme=dark)](https://git.io/streak-stats)
-
-## 🐍 GitHub 贡献蛇动画
-
-![GitHub Contributions Snake](https://raw.githubusercontent.com/CARL-JOSEPH-LEE/CARL-JOSEPH-LEE/output/github-contribution-grid-snake.svg)
-
-## 👀 主页浏览量
-
-![Profile views](https://komarev.com/ghpvc/?username=CARL-JOSEPH-LEE&color=blue)
-
 ## Features
 难度系统：
 difficulty_levels = {
@@ -62,3 +48,9 @@ difficulty_levels = {
 ## License
 
 随便写的证书。
+
+[![CARL-JOSEPH-LEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=CARL-JOSEPH-LEE&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CARL-JOSEPH-LEE&theme=dark)](https://git.io/streak-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=CARL-JOSEPH-LEE&color=blue)
