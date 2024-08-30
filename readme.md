@@ -11,6 +11,7 @@
 -   [Screenshots](#screenshots)
 -   [Contribution](#contribution)
 -   [License](#license)
+-   [Acknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -48,6 +49,15 @@ difficulty_levels = {
 ## License
 
 随便写的证书。
+
+## Acknowledgements
+-   The [SymPy](https://pypi.org/project/sympy/) library for symbolic mathematics and polynomial factorization.
+-   The [Tkinter](https://docs.python.org/3/library/tkinter.html) library for building the graphical user interface.
+-   The [ttk](https://docs.python.org/3/library/tkinter.ttk.html) module for enhancing the appearance and functionality of the Tkinter interface.
+-   The [Matplotlib](https://pypi.org/project/matplotlib/) library for rendering and displaying mathematical expressions.
+-   The [random](https://docs.python.org/3/library/random.html) module for generating random coefficients for polynomial expressions.
+-   The [ttkbootstrap](https://pypi.org/project/ttkbootstrap/) library for further improving the style and aesthetics of the Tkinter GUI.
+
 
 [![CARL-JOSEPH-LEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=CARL-JOSEPH-LEE&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
