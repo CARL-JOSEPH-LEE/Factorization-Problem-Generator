@@ -1,0 +1,23 @@
+```yaml
+name: Generate Snake
+
+on:
+  schedule: # 计划任务，每天自动运行一次
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: CARL-JOSEPH-LEE
+          output: dist/snake.svg
+
+      - name: Upload Snake
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake
+          path: dist/snake.svg
